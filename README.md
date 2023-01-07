@@ -326,5 +326,5 @@ $secondary-color: #00cdac;
 
 Once you finish your setup. You need to put your website online!
 
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.#   d e v P o r t f o r l i o T e m p l a t e  
- 
+I highly recommend to use [Netlify](https://netlify.com) because it is super easy.#� 
+
