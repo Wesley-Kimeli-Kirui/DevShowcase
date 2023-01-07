@@ -1,7 +1,7 @@
 ## A simple portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/Wesley-Kimeli-Kirui/devPortfolioTemplate/blob/master/examples/example.gif" alt="devPortfolioTemplate" width="600px" />
+  <img src="devportfoliotemplate.netlify.app " alt="devPortfolioTemplate" width="600px" />
   <br>
 </h2>
 
