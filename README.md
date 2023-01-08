@@ -1,7 +1,7 @@
 ## A simple portfolio template for Developers!
 
 <h2 align="center">
-  <img src="https://github.com/Wesley-Kimeli-Kirui/devPortfolioTemplate/blob/master/examples/example.gif" alt="devPortfolioTemplate" width="600px" />
+  <img src="devportfoliotemplate.netlify.app " alt="https://devportfoliotemplate.netlify.app/" width="600px" />
   <br>
 </h2>
 
@@ -15,7 +15,7 @@
 ⚡️ Optimized with Parcel\
 ⚡️ Well organized documentation
 
-To view the demo: **[click here]()**
+To view the demo: **[click here](https://devportfoliotemplate.netlify.app/)**
 
 ---
 
@@ -326,5 +326,5 @@ $secondary-color: #00cdac;
 
 Once you finish your setup. You need to put your website online!
 
-I highly recommend to use [Netlify](https://netlify.com) because it is super easy.#   d e v P o r t f o r l i o T e m p l a t e  
- 
+I highly recommend to use [Netlify](https://netlify.com) because it is super easy.#� 
+
